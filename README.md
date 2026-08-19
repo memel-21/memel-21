@@ -19,6 +19,16 @@ My interests sit at the intersection of **Machine Learning, Applied AI, AI Agent
 
 ---
 
+## 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/memel-21/memel-21/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/memel-21/memel-21/output/github-snake.svg" />
+  <img alt="Kamil Aqili's GitHub contribution snake" src="https://raw.githubusercontent.com/memel-21/memel-21/output/github-snake.svg" />
+</picture>
+
+---
+
 ## 🧩 Featured Projects
 
 ### ❤️ [AI Heart Pattern Checker](https://github.com/memel-21/ai-heart-pattern-checker)
@@ -64,16 +74,6 @@ A human-in-the-loop AI assistant for preparing and tracking internship applicati
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-
----
-
-## 🐍 My Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/memel-21/memel-21/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/memel-21/memel-21/output/github-snake.svg" />
-  <img alt="Kamil Aqili's GitHub contribution snake" src="https://raw.githubusercontent.com/memel-21/memel-21/output/github-snake.svg" />
-</picture>
 
 ---
 
