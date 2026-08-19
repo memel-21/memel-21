@@ -29,22 +29,9 @@ My interests sit at the intersection of **Machine Learning, Applied AI, AI Agent
 
 ---
 
-## 🧩 Featured Projects
+## 🌐 Social
 
-### ❤️ [AI Heart Pattern Checker](https://github.com/memel-21/ai-heart-pattern-checker)
-AI-assisted cardiovascular pattern checker built as my final-year project. It uses an **Autoencoder anomaly-detection model** to analyse human vital-sign patterns and flag unusual readings through a Streamlit interface.
-
-`Python` `TensorFlow/Keras` `Streamlit` `Anomaly Detection` `Machine Learning`
-
-### 📚 [Grounded Document QA](https://github.com/memel-21/ai-governance-docqa)
-A retrieval-based question-answering system that searches document collections and produces **grounded, cited answers**, with an emphasis on auditability and retrieval quality.
-
-`Python` `BM25` `Information Retrieval` `NLP` `Document Processing`
-
-### 🤖 [Internship Application Agent](https://github.com/memel-21/internship-application-agent)
-A human-in-the-loop AI assistant for preparing and tracking internship applications, including structured vacancy extraction, evidence-grounded generation, deterministic validation, document generation, and application tracking.
-
-`Python` `OpenAI API` `Streamlit` `SQLite` `Pydantic` `AI Automation`
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqilikamil21@gmail.com)
 
 ---
 
@@ -76,12 +63,24 @@ A human-in-the-loop AI assistant for preparing and tracking internship applicati
 
 ---
 
-## 🌐 Let's Connect
+## 🧩 Featured Projects
 
-I'm always interested in discussing **Artificial Intelligence, Machine Learning, AI Engineering, Data Analytics, and intelligent software systems**.
+### ❤️ [AI Heart Pattern Checker](https://github.com/memel-21/ai-heart-pattern-checker)
+AI-assisted cardiovascular pattern checker built as my final-year project. It uses an **Autoencoder anomaly-detection model** to analyse human vital-sign patterns and flag unusual readings through a Streamlit interface.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqilikamil21@gmail.com)
+`Python` `TensorFlow/Keras` `Streamlit` `Anomaly Detection` `Machine Learning`
+
+### 📚 [Grounded Document QA](https://github.com/memel-21/ai-governance-docqa)
+A retrieval-based question-answering system that searches document collections and produces **grounded, cited answers**, with an emphasis on auditability and retrieval quality.
+
+`Python` `BM25` `Information Retrieval` `NLP` `Document Processing`
+
+### 🤖 [Internship Application Agent](https://github.com/memel-21/internship-application-agent)
+A human-in-the-loop AI assistant for preparing and tracking internship applications, including structured vacancy extraction, evidence-grounded generation, deterministic validation, document generation, and application tracking.
+
+`Python` `OpenAI API` `Streamlit` `SQLite` `Pydantic` `AI Automation`
 
 ---
+
 
 ⭐ **Always learning. Always building.**
